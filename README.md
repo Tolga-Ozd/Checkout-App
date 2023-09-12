@@ -1,4 +1,5 @@
-
+## Welcome to My Project!  👋
+Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
 ## Description
 Project aims to create a real checkout page of e-commerce website.
 
